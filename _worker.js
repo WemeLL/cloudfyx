@@ -33,7 +33,7 @@ const directDomains = [
 ];
 
 // 默认优选IP来源URL
-const defaultIPURL = 'https://raw.githubusercontent.com/qwer-search/bestip/refs/heads/main/kejilandbestip.txt';
+const defaultIPURL = 'https://raw.githubusercontent.com/WemeLL/yxip/refs/heads/main/bestcf-domains-20261122-174352.txt';
 
 // UUID验证
 function isValidUUID(str) {
